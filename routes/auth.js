@@ -11,4 +11,3 @@ router.post("/send-otp", authController.sendOtp);
 router.post("/verify-otp", authController.verifyOtp);
 
 module.exports = router;
-j;
